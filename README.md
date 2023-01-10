@@ -1,4 +1,4 @@
-# project
+# Специалист техподдержки
 ![image](https://user-images.githubusercontent.com/107184646/211625872-8d07dcde-129f-4439-a3c5-bdb0db97c346.png)
 
 ![image](https://user-images.githubusercontent.com/107184646/211625973-8d8d56f0-5f5f-420b-b11f-e026d41f5a08.png)
