@@ -13,7 +13,7 @@
 
 Страница навыки:
 
-![image](https://user-images.githubusercontent.com/107184646/212461193-9ae73ce6-98b9-49df-86d3-a7fa82261390.png)
+![image](https://user-images.githubusercontent.com/107184646/212462628-08d44b61-7ee1-4fb7-8990-f1cc4bf8fbe1.png)
 
 ![image](https://user-images.githubusercontent.com/107184646/212461229-a898943d-334d-4692-8a8c-8b8af6925ef7.png)
 
