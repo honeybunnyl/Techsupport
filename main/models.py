@@ -55,3 +55,8 @@ class Skills(models.Model):
         default='skills'
     )
     text = models.TextField('Текст', default=None)
+    graph = models.ImageField(
+        'График',
+        default=None,
+        upload_to='skills'
+    )
