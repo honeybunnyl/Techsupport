@@ -22,8 +22,8 @@ def get_vacancies():
             'specialization': 1,
             'page': 1,
             'per_page': 100,
-            'date_from': f'2022-12-12T00:00:00+0300',
-            'date_to': f'2022-12-13T00:00:00+0300',
+            #'date_from': f'2022-12-12T00:00:00+0300',
+            #'date_to': f'2022-12-13T00:00:00+0300',
         }
         data = []
         info = requests.get('https://api.hh.ru/vacancies', params).json()
