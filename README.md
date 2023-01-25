@@ -17,6 +17,6 @@
 
 ![image](https://user-images.githubusercontent.com/107184646/212461229-a898943d-334d-4692-8a8c-8b8af6925ef7.png)
 
-Страница последние вакансии:
+Страница последние вакансии:(вакансии обновляются за 12.12.2022)
 
 ![image](https://user-images.githubusercontent.com/107184646/212461412-365aabb6-5793-4c3e-ade9-8057c58706c2.png)
